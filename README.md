@@ -21,8 +21,9 @@ MATLAB, Simulink, Simscape, and Simscape Multibody.
 - Napat 	Ngansungnoen 		ID 6730139421 	— Multibody simulation
 
 
+https://github.com/user-attachments/assets/33e0fefd-3a82-4b05-beef-75f063241725
 
-https://github.com/user-attachments/assets/9d52045a-ffac-4ce1-a2c9-90581eefb63b
+
 
 
 
