@@ -13,7 +13,7 @@ MATLAB, Simulink, Simscape, and Simscape Multibody.
 
 ## Notes
 - All STEP files in the CAD folder are required.
-- Crank speed increases from rest to 3 rad/s within 1 second.
+- Crank speed is 10 rpm.
 - The frame is fixed; the simulation demonstrates leg motion.
 
 ## Members
