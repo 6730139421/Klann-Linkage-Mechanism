@@ -27,19 +27,6 @@ The Word report contains four sections:
 3. **Multibody Simulation** — Simscape Multibody model development, motion input, and simulation results.
 4. **Comparison of Results** — Comparison of the symbolic analysis and multibody simulation results.
 
-## Requirements
-
-### Symbolic Analysis
-- MATLAB
-- Symbolic Math Toolbox
-
-### Multibody Simulation
-- MATLAB
-- Simulink
-- Simscape
-- Simscape Multibody
-
-
 ## Symbolic Mathematical Analysis
 
 The files in `Symbolicmath` describe the planar linkage using geometric constraints and vector-loop equations.
@@ -57,11 +44,6 @@ The symbolic model uses a constant crank speed of 10 rpm.
 2. Open MATLAB and navigate to the `Symbolicmath` folder.
 3. Open and run the analysis script for the desired result.
 
-### Multibody Simulation
-- MATLAB
-- Simulink
-- Simscape
-- Simscape Multibody
 ## Simscape Multibody Simulation
 
 ### How to Run
