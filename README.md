@@ -13,14 +13,32 @@ Term project for 2103322 MECHANICS OF MACHINERY
 ├── Symbolicmath/        # MATLAB symbolic analysis files
 ├── KlanMechanism.slx    # Four-leg Simscape Multibody model
 ├── start_model.m        # Multibody model startup script
+├── Report.docx          # Project report
 ├── Mechanism.avi        # Simulation video
 └── README.md
 ```
+
+### Project Report
+
+The Word report contains four sections:
+
+1. **Kinematic Model** — Geometric parameters, input conditions, and degree-of-freedom (DOF) analysis.
+2. **Symbolic Mathematical Analysis** — Mathematical formulation and symbolic analysis results.
+3. **Multibody Simulation** — Simscape Multibody model development, motion input, and simulation results.
+4. **Comparison of Results** — Comparison of the symbolic analysis and multibody simulation results.
+
 ## Requirements
 
 ### Symbolic Analysis
 - MATLAB
 - Symbolic Math Toolbox
+
+### Multibody Simulation
+- MATLAB
+- Simulink
+- Simscape
+- Simscape Multibody
+
 
 ## Symbolic Mathematical Analysis
 
