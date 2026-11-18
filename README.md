@@ -14,6 +14,7 @@ Term project for 2103322 MECHANICS OF MACHINERY
 ├── KlanMechanism.slx    # Four-leg Simscape Multibody model
 ├── start_model.m        # Multibody model startup script
 ├── Report.docx          # Project report
+├── Report.pdf           # Project report (pdf)
 ├── Mechanism.avi        # Simulation video
 └── README.md
 ```
