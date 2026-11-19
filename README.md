@@ -1,4 +1,4 @@
-# Four-Leg Klann Mechanism
+# Klann Mechanism
 
 Term project for 2103322 MECHANICS OF MACHINERY
 
